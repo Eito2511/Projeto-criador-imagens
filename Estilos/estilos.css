@@ -1,0 +1,83 @@
+body {
+    padding-bottom: 500px;
+    font-size: 20px;
+}
+
+
+
+* {
+    font-family: Helvetica;
+}
+
+* {
+    background-color: #b2f6f4;
+}
+
+* {
+    text-align: center;
+}
+
+* {
+    text-decoration: none;
+}
+
+.btn {
+    background-color: #ffffff;
+    border: 3px solid #0015ff;
+    border-radius: 5px;
+    padding: 12px 7px;
+    margin: 50px auto;
+    text-align: center;
+    display: block;
+    width: 120px;
+}
+
+.btn:hover{
+    background-color: #7492ff;
+}
+
+* {
+    list-style: none;
+}
+
+.funcionalidade{
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 12px 305px;
+    margin: 50px auto;
+    text-align: center;
+    width: 120px;;
+}
+
+.descricao{
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 12px 305px;
+    margin: 5%;
+    text-align: center;
+    width: 120px;;
+}
+
+.copy{
+    border-radius: 5px;
+    padding: 12px 25px;
+    margin: 50px auto;
+    text-align: center;
+    display: block;
+    width: 120px;
+}
+
+.imagem{
+    width: 30%;
+    height: 100px;
+    padding: 23px;
+    margin: 1% 1%;
+}
+
+.imagem-index{
+    width: 30%;
+    height: 175px;
+    padding: 23px;
+    margin: 1% 1%;
+    text-align: center;
+}
